@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Pradino_Templatehints>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Pradino_Templatehints>
+  </modules>
+</config>

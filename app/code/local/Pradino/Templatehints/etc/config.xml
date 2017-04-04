@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Pradino_Templatehints>
+      <version>1.0</version>
+    </Pradino_Templatehints>
+  </modules>
+  <global>
+    <blocks>
+      <core>
+        <rewrite>
+          <template>Pradino_Templatehints_Block_Template</template>
+        </rewrite>
+      </core>
+    </blocks>
+  </global>
+</config>
